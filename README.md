@@ -2,6 +2,9 @@
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/ErrolFieschi/projetGitGroupe7/pull/6) in [ErrolFieschi/projetGitGroupe7](https://github.com/ErrolFieschi/projetGitGroupe7)
+2. 💪 Opened PR [#6](https://github.com/ErrolFieschi/projetGitGroupe7/pull/6) in [ErrolFieschi/projetGitGroupe7](https://github.com/ErrolFieschi/projetGitGroupe7)
+<!--END_SECTION:activity-->
 
 <!--
 **HoreKk/horekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
