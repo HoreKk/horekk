@@ -16,10 +16,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tdd-project              0 secs              █████████████████████████   100.0%
 
 ```
 
