@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="19px"> Hey ! I'm Antoine, Frontend developer from <img src="https://user-images.githubusercontent.com/45999037/109720557-8a4eaa00-7baa-11eb-8992-25452bd80e76.png" width="18px"/> Paris
 
-<img src="https://media.giphy.com/media/UtEM6J85KZUgJhFUNs/giphy.gif" height="200px">
+<img src="https://media.giphy.com/media/UtEM6J85KZUgJhFUNs/giphy.gif" height="125px">
 
 <div>
   <a href="https://twitter.com/HoreK0">
