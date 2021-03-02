@@ -1,10 +1,10 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="19px"> Hey ! I'm Antoine, Frontend developer from <img src="https://www.flaticon.com/svg/vstatic/svg/555/555602.svg?token=exp=1612747292~hmac=8853639b3260dfc71e44d9ddd2caf51f" width="12"/> Paris
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="19px"> Hey ! I'm Antoine, Frontend developer from <img src="https://user-images.githubusercontent.com/45999037/109720557-8a4eaa00-7baa-11eb-8992-25452bd80e76.png" width="18px"/> Paris
 
-
+<img src="https://media.giphy.com/media/UtEM6J85KZUgJhFUNs/giphy.gif" height="200px">
 
 <div>
   <a href="https://twitter.com/HoreK0">
-    <img align="left" alt="HoreK Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img align="left" alt="HoreK Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/antoine-lelong-510027199">
     <img align="left" alt="HoreK's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
