@@ -17,6 +17,7 @@ jobs:
           # Options
           user: horekk
           template: classic
+          config_display: columns
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_achievements: yes
