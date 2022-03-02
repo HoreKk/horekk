@@ -16,7 +16,7 @@ jobs:
 
           # Options
           user: horekk
-          template: classic
+          template: markdown
           config_display: columns
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
